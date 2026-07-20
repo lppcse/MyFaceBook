@@ -1,0 +1,6 @@
+{
+  "name": "MyFaceBook",
+  "description": "A high-fidelity Facebook clone featuring real-time private messaging, photo/post sharing, friend connections, simulated push notifications for friend requests, and a consistent profile template rendering hundreds of interactive profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
